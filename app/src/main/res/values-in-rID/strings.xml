@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="step_one_title">Install WhatAppTema di Android Kamu \nGeser ke halaman selanjutnya</string>
+    <string name="s2_1">■ Lihat tombol Donlot pada halam terakhir pada aplikasi ini. \n■ Klik tombol donlot tersebut, kemudian jika berhasil maka link untuk mengunduh file akan tersalin otomatis. \n■ Buka browser kamu (direkomendasikan dibuka menggunakan Chrome) \n■ kemudian paste link yang sudah ter-copy tadi, klik donlot pada halaman berikut:</string>
+    <string name="s2_0">Donlot dan install WhatAppTema Terbaru</string>
+    <string name="s2_2">Klik tombol \"Donlot Now\", kemudian akan keluar popup untuk melanjutkan proses donlot. Kemudian pilih tombol \"Donlot\"</string>
+    <string name="s2_3">Jika kamu belum mengubah pilihan install untuk sumber yang tidak diketahui, lakukan proses berikut: \nUntuk pengguna dengan Android dengan versi Oreo (Android 8.1) dan diatasnya, enable pilihan Install from Unknown Source. Lihat gamabr dibawah</string>
+    <string name="s2_4">Untuk Android dengan versi dibawah oreo, aktifkan install from source seperti gambar berikut:</string>
+    <string name="s2_5">Selanjutnya, buka dan isntall aplikasi WhatsApp seperti biasa. Jangan panik, data-data yang anda miliki pada aplikasi WhatsApp sebelumnya tidak akan hilang. Tunnggu hingga proses install selesai</string>
+    <string name="s3_0">Nikmati Fitur WhatAppTema Anda</string>
+    <string name="s3_1">Jika proses instalasi berhasil, maka kamu sudah dapat menggunakan fitur WhatAppTema Kamu!</string>
+    <string name="s3_2">Klim \"plus button\" seperti gambar diatas untuk melihat semua stiker yang disediakan WhatsApp dan yang sudah kamu Donlot. Lihat gambar berikut:</string>
+    <string name="s3_3">Kamu bisa Donlot dan simpan semua stiker dari WhatsApp dan menggunakannya dalam percakapan. Kamu juga dapat donlot ribuan stiker WhatsApp dari Playstore, pilih menu seperti pada gambar dibawah ini:</string>
+    <string name="s4_0">Donlot file dan Bagikan kepada Teman-teman kamu</string>
+    <string name="s4_1">Hore, selamat sekarang kamu sudah dapat menggunakan WhatAppTema. Beritahu teman-teman kamu supaya mereka menggunakan WhatAppTema juga. Tap tombol share berikut:</string>
+    <string name="share">Bagikan</string>
+    <string name="s4_2">Jika menurut kamu aplikasi ini sangat membantu, beri bintang 5 yuk! tekan tombol berikut:</string>
+    <string name="rate">Rate 5 stars</string>
+    <string name="s4_3">Lihat juga aplikasi-aplikasi kami yang lain</string>
+    <string name="more">More Apps</string>
+    <string name="share_body">Aku sudah bisa menggunakan stiker di aplikasi WhatsApp ku, kamu udah bisa belum? Ayo ikutin caranya, Donlot aplikasinya di:</string>
+
+    <string name="must_watch">Kamu harus menonton video promo sampai selesai untuk melihat link</string>
+    <string name="dialog_title">Anda harus menonton video promosi sampai selesai</string>
+    <string name="success_load">Link berhasil disalin atau di-copy. Selanjutnya buka browser kamu, kemudian tempel atau paste link yang sudah disalin tadi. Kemudian pilih d0nI0t</string>
+</resources>

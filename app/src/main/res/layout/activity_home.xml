@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".HomeActivity">
+    <RelativeLayout
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:orientation="vertical"
+        />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_above="@id/adView"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:orientation="vertical"
+            >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="5dp"
+                >
+
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_weight="2"
+                    android:layout_margin="5dp"
+                    android:layout_height="wrap_content"
+                    android:background="@color/bgMenu"
+                    android:padding="5dp"
+                    android:id="@+id/l_download"
+                    android:orientation="horizontal"
+                    >
+                    <ImageView
+                        android:layout_width="48dp"
+                        android:layout_height="48dp"
+                        android:src="@drawable/ic_download"
+                        />
+                    <TextView
+                        android:layout_marginLeft="5dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="DONLOT"
+                        android:textColor="@android:color/white"
+                        style="@style/TextAppearance.AppCompat.Medium"
+                        android:layout_gravity="center_vertical"
+                        />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_weight="2"
+                    android:layout_margin="5dp"
+                    android:padding="5dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/l_how_download"
+                    android:background="@color/bgMenu"
+                    android:orientation="horizontal"
+                    >
+                    <ImageView
+                        android:layout_width="48dp"
+                        android:layout_height="48dp"
+                        android:src="@drawable/ic_announcement"
+                        />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="CARA DONLOT"
+                        android:layout_marginLeft="5dp"
+                        android:textColor="@android:color/white"
+                        style="@style/TextAppearance.AppCompat.Medium"
+                        android:layout_gravity="center_vertical"
+                        />
+                </LinearLayout>
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="5dp"
+                >
+
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_weight="2"
+                    android:id="@+id/l_how_install"
+                    android:layout_margin="5dp"
+                    android:layout_height="wrap_content"
+                    android:background="@color/bgMenu"
+                    android:padding="5dp"
+                    android:orientation="horizontal"
+                    >
+                    <ImageView
+                        android:layout_width="48dp"
+                        android:layout_height="48dp"
+                        android:src="@drawable/ic_archive"
+                        />
+                    <TextView
+                        android:layout_marginLeft="5dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="CARA INSTALL"
+                        android:textColor="@android:color/white"
+                        style="@style/TextAppearance.AppCompat.Medium"
+                        android:layout_gravity="center_vertical"
+                        />
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_weight="2"
+                    android:id="@+id/wall"
+                    android:layout_margin="5dp"
+                    android:layout_height="wrap_content"
+                    android:background="@color/bgMenu"
+                    android:padding="5dp"
+                    android:orientation="horizontal"
+                    >
+                    <ImageView
+                        android:layout_width="48dp"
+                        android:layout_height="48dp"
+                        android:src="@drawable/ic_archive"
+                        />
+                    <TextView
+                        android:layout_marginLeft="5dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="WALLPAPER"
+                        android:textColor="@android:color/white"
+                        style="@style/TextAppearance.AppCompat.Medium"
+                        android:layout_gravity="center_vertical"
+                        />
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="5dp"
+                >
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_weight="2"
+                    android:id="@+id/l_youtube"
+                    android:layout_margin="5dp"
+                    android:layout_height="wrap_content"
+                    android:background="@color/bgMenu"
+                    android:padding="5dp"
+                    android:orientation="horizontal"
+                    >
+                    <ImageView
+                        android:layout_width="48dp"
+                        android:layout_height="48dp"
+                        android:src="@android:drawable/ic_media_play"
+                        />
+                    <TextView
+                        android:layout_marginLeft="5dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Tonton Panduan Pemasangan"
+                        android:textColor="@android:color/white"
+                        style="@style/TextAppearance.AppCompat.Medium"
+                        android:layout_gravity="center_vertical"
+                        />
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

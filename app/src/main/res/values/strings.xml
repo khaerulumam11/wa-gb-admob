@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Chat Tema dan Wallpaper</string>
+
+    <string name="app_id" translatable="false">ca-app-pub-1405596438680485~9003566281</string>
+    <string name="banner" translatable="false">ca-app-pub-1405596438680485/7300436524</string>
+    <string name="inter" translatable="false">ca-app-pub-1405596438680485/3662420324</string>
+    <string name="reward" translatable="false">ca-app-pub-1405596438680485/3169619822</string>
+
+    <!-- <string name="app_id" translatable="false">ca-app-pub-5730577896277719~5293643067</string>
+    <string name="banner" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="inter" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="reward" translatable="false">	ca-app-pub-3940256099942544/5224354917</string> -->
+
+    <string name="vungle_app_id" translatable="false">5eeda5db52481e000169179e</string>
+    <string name="vungle_banner" translatable="false">BANNER-8241512</string>
+    <string name="vungle_inter" translatable="false">INTER-3184265</string>
+    <string name="vungle_reward" translatable="false">REWARD-3167779</string>
+
+    <string name="startapp_app_id" translatable="false">205768669</string>
+    <string name="startapp_banner" translatable="false">BANNER-8241512</string>
+    <string name="startapp_inter" translatable="false">INTER-3184265</string>
+    <string name="startapp_reward" translatable="false">REWARD-3167779</string>
+
+    <string name="adcol_app_id" translatable="false">app48fa0d857409441b92</string>
+    <string name="adcol_banner" translatable="false">vza4db667851674d00a3</string>
+    <string name="adcol_inter" translatable="false">vz1b1f24bbb73d4d09a8</string>
+    <string name="adcol_reward" translatable="false">vz9967bd5f350b4ea382</string>
+
+
+    <string name="inmobi_acc_id" translatable="false">8bad42c495eb48a987bde8f2df23684f</string>
+    <string name="inmobi_app_id" translatable="false">app48fa0d857409441b92</string>
+    <string name="inmobi_banner" translatable="false">1591515790563 </string>
+    <string name="inmobi_inter" translatable="false">1591418657079</string>
+    <string name="inmobi_reward" translatable="false">1592596745783</string>
+
+
+    <string name="unity_app_id" translatable="false">4141981</string>
+    <string name="unity_banner" translatable="false">Banner_Android</string>
+    <string name="unity_inter" translatable="false">Interstitial_Android</string>
+    <string name="unity_reward" translatable="false">Rewarded_Android</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="step_one_title">Install WhatAppTema di Android Kamu \nGeser ke halaman selanjutnya</string>
+    <string name="s2_1">■ Lihat tombol Donlot pada halam terakhir pada aplikasi ini. \n■ Klik tombol donlot tersebut, kemudian jika berhasil maka link untuk mengunduh file akan tersalin otomatis. \n■ Buka browser kamu (direkomendasikan dibuka menggunakan Chrome) \n■ kemudian paste link yang sudah ter-copy tadi, klik donlot pada halaman berikut:</string>
+    <string name="s2_0">Donlot dan install WhatAppTema Terbaru</string>
+    <string name="s2_2">Klik tombol \"Donlot Now\", kemudian akan keluar popup untuk melanjutkan proses donlot. Kemudian pilih tombol \"Donlot\"</string>
+    <string name="s2_3">Jika kamu belum mengubah pilihan install untuk sumber yang tidak diketahui, lakukan proses berikut: \nUntuk pengguna dengan Android dengan versi Oreo (Android 8.1) dan diatasnya, enable pilihan Install from Unknown Source. Lihat gamabr dibawah</string>
+    <string name="s2_4">Untuk Android dengan versi dibawah oreo, aktifkan install from source seperti gambar berikut:</string>
+    <string name="s2_5">Selanjutnya, buka dan isntall aplikasi WhatsApp seperti biasa. Jangan panik, data-data yang anda miliki pada aplikasi WhatsApp sebelumnya tidak akan hilang. Tunnggu hingga proses install selesai</string>
+    <string name="s3_0">Nikmati Fitur WhatAppTema Anda</string>
+    <string name="s3_1">Jika proses instalasi berhasil, maka kamu sudah dapat menggunakan fitur WhatAppTema Kamu!</string>
+    <string name="s3_2">Klim \"plus button\" seperti gambar diatas untuk melihat semua stiker yang disediakan WhatsApp dan yang sudah kamu Donlot. Lihat gambar berikut:</string>
+    <string name="s3_3">Kamu bisa Donlot dan simpan semua stiker dari WhatsApp dan menggunakannya dalam percakapan. Kamu juga dapat donlot ribuan stiker WhatsApp dari Playstore, pilih menu seperti pada gambar dibawah ini:</string>
+    <string name="s4_0">Donlot file dan Bagikan kepada Teman-teman kamu</string>
+    <string name="s4_1">Hore, selamat sekarang kamu sudah dapat menggunakan WhatAppTema. Beritahu teman-teman kamu supaya mereka menggunakan WhatAppTema juga. Tap tombol share berikut:</string>
+    <string name="share">Bagikan</string>
+    <string name="s4_2">Jika menurut kamu aplikasi ini sangat membantu, beri bintang 5 yuk! tekan tombol berikut:</string>
+    <string name="rate">Rate 5 stars</string>
+    <string name="s4_3">Lihat juga aplikasi-aplikasi kami yang lain</string>
+    <string name="more">More Apps</string>
+    <string name="share_body">Aku sudah bisa menggunakan stiker di aplikasi WhatsApp ku, kamu udah bisa belum? Ayo ikutin caranya, Donlot aplikasinya di:</string>
+
+    <string name="must_watch">Kamu harus menonton video promo sampai selesai untuk lihat link </string>
+    <string name="dialog_title">Anda harus menonton video promosi sampai selesai</string>
+    <string name="success_load">Link berhasil disalin atau di-copy. Selanjutnya buka browser kamu, kemudian tempel atau paste link yang sudah disalin tadi. Kemudian pilih d0nI0t</string>
+
+</resources>
